@@ -160,6 +160,153 @@
       "price": 15,
       "productUrl": "https://shope.ee/6pQgyxDLMG",
       "rating": 3.5
+    },
+    {
+      "productName": "DOEL Automatic Cat Feeder Timed and Quantitative Feeding with Stainless Steel Bowl APP Remote Control with Dual Power Dry Food Pet Feeder 4L",
+      "image": "https://m.media-amazon.com/images/I/61gZeCuIEpL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "price": 49.99,
+      "productUrl": "https://amzn.to/3V5gTcI",
+      "rating": 5
+    },
+    {
+      "productName": "Neakasa by neabot P1 Pro Pet Grooming Kit & Vacuum Suction 99% Pet Hair, Dog Grooming Kit with 5 Professional Grooming Shedding Tools for Dogs Cats and Other Animals",
+      "image": "https://m.media-amazon.com/images/I/71ryNk3yeWL._AC_SX679_.jpg",
+      "price": 159.99,
+      "productUrl": "https://amzn.to/3hOLHjw",
+      "rating": 4.7
+    },
+    {
+      "productName": "MIU PET Professional Long Haired Dog Grooming Kit - Dog Grooming Brush, Dog Deshedding Brush and Self-Cleaning Slicker Brush for Dogs 3 in 1 Dog Brush Set Gift Box for Long Hair Dogs Owners",
+      "image": "https://m.media-amazon.com/images/I/61BqHWNMK+L._SX679_.jpg",
+      "price": 28.99,
+      "productUrl": "https://amzn.to/3XaBNc3",
+      "rating": 4.8
+    },
+    {
+      "productName": "Cesar Gourmet Wet Dog Food Variety Packs",
+      "image": "https://m.media-amazon.com/images/I/81-RkvOq6dL._AC_SX679_.jpg",
+      "price": 12.75,
+      "productUrl": "https://amzn.to/3XejFOK",
+      "rating": 4.7
+    },
+    {
+      "productName": "Meow Mix Original Choice Dry Cat Food",
+      "image": "https://m.media-amazon.com/images/I/61TmaqkHSdL._AC_SX679_.jpg",
+      "price": 55.99,
+      "productUrl": "https://amzn.to/3EiE643",
+      "rating": 4.6
+    },
+    {
+      "productName": "Hill's Science Diet Adult 7+ Small Bites Chicken Meal, Barley & Brown Rice Recipe Dry Dog Food, 15 lb. Bag",
+      "image": "https://m.media-amazon.com/images/I/71IMpUREiTL._AC_SX679_.jpg",
+      "price": 30.88,
+      "productUrl": "https://amzn.to/3tDrZKk",
+      "rating": 4.8
+    },
+    {
+      "productName": "Fancy Feast Purina Wet Cat Food Variety Packs",
+      "image": "https://m.media-amazon.com/images/I/81CgwvJVwDL._AC_SX679_.jpg",
+      "price": 57.06,
+      "productUrl": "https://amzn.to/3TFXrlv",
+      "rating": 4.7
+    },
+    {
+      "productName": "Purina ONE Tender Selects Blend Adult Dry Cat Food",
+      "image": "https://m.media-amazon.com/images/I/71-d1vdFEbL._AC_SX679_.jpg",
+      "price": 49.99,
+      "productUrl": "https://amzn.to/3X9hzzu",
+      "rating": 5
+    },
+    {
+      "productName": "Purina ONE High Protein, Natural Dry Dog Food, True Instinct With Real Turkey & Venison - 7.4 lb. Bag",
+      "image": "https://m.media-amazon.com/images/I/81vnmSr5OAL._AC_SX679_.jpg",
+      "price": 30.88,
+      "productUrl": "https://amzn.to/3Aqg8mC",
+      "rating": 4.6
+    },
+    {
+      "productName": "Cesar 36 count & 60 count Variety Pack Soft Wet Dog Food",
+      "image": "https://m.media-amazon.com/images/I/81mlRbO77+L._AC_SX679_.jpg",
+      "price": 12.75,
+      "productUrl": "https://amzn.to/3tA6XMq",
+      "rating": 4.7
+    },
+    {
+      "productName": "YI Pan-Tilt Security Camera, 360 Degree 2.4G Smart Indoor Pet Dog Cat Cam with Night Vision, 2-Way Audio, Motion Detection, Phone APP, Compatible with Alexa and Google Assistant",
+      "image": "https://m.media-amazon.com/images/I/61h+GzXPZlL._AC_SX679_.jpg",
+      "price": 33.99,
+      "productUrl": "https://amzn.to/3UJyKpJ",
+      "rating": 4.3
+    },
+    {
+      "productName": "PETBIZ G1 GPS Pet Tracker, NB-IOT(5G) Dog Locator & Activity Monitor, 30 Days Ultra Long-Lasting Battery Lightweight Waterproof Dog Finder (Black)",
+      "image": "https://m.media-amazon.com/images/I/41LvPtTyOBL._AC_SX679_.jpg",
+      "price": 89.99,
+      "productUrl": "https://amzn.to/3UM4AlB",
+      "rating": 4.8
+    },
+    {
+      "productName": "WOPET 6L Automatic Cat Feeder,Wi-Fi Enabled Smart Pet Feeder for Cats and Dogs,Auto Dog Food Dispenser with Portion Control, Distribution Alarms and Voice Recorder Up to 15 Meals per Day",
+      "image": "https://m.media-amazon.com/images/I/61CiANtHXzL._AC_SX679_.jpg",
+      "price": 89.99,
+      "productUrl": "https://amzn.to/3gkvSjY",
+      "rating": 4.4
+    },
+    {
+      "productName": "Kasa Indoor Pan/Tilt Smart Security Camera, 1080p HD Dog Camera 2.4GHz with Night Vision, Motion Detection for Baby and Pet Monitor, Cloud & SD Card Storage, Works with Alexa & Google Home (EC70)",
+      "image": "https://m.media-amazon.com/images/I/51lGcD26GoL._AC_SX679_.jpg",
+      "price": 29.99,
+      "productUrl": "https://amzn.to/3TDTpKs",
+      "rating": 4.4
+    },
+    {
+      "productName": "PAWLAND 144-inch Extra Wide 30-inches Tall Dog gate with Door Walk Through, Freestanding Wire Pet Gate for The House, Doorway, Stairs, Pet Puppy Safety Fence, Support Feet Included",
+      "image": "https://m.media-amazon.com/images/I/81IukVIFq4L._AC_SX679_.jpg",
+      "price": 165.95,
+      "productUrl": "https://amzn.to/3UMPigo",
+      "rating": 4.4
+    },
+    {
+      "productName": "Zesty Paws Probiotics for Dogs - Probiotics for Gut Flora, Digestive Health, Occasional Diarrhea & Bowel Support - Clinically Studied DE111 - Functional Dog Supplement Soft Chew for Pet Immune System",
+      "image": "https://m.media-amazon.com/images/I/8155ZDMaWJL._AC_SX679_.jpg",
+      "price": 19.99,
+      "productUrl": "https://amzn.to/3ggdqZY",
+      "rating": 4.5
+    },
+    {
+      "productName": "Petory Cat Water Fountain - Automatic Pet Water Fountain Cat Water Dispenser with 2 Replacement Filters, 74oz/2.2L BPA-Free Water Fountain for Cats Inside with 2 Flow Modes",
+      "image": "https://m.media-amazon.com/images/I/71VdSYqlJQL._AC_SL1500_.jpg",
+      "price": 21.22,
+      "productUrl": "https://amzn.to/3ECBTSu",
+      "rating": 4.3
+    },
+    {
+      "productName": "Home Security Camera System, Reolink 3MP HD Plug-in Indoor WiFi Camera, Pan Tilt Pet Camera, Baby Monitor, Night Vision, 2 Way Audio, Motion Alerts, 7 Day Free Cloud/Local SD Card Storage, E1(2 Pack)",
+      "image": "https://m.media-amazon.com/images/I/61gGxcjwhpL._AC_SX679_.jpg",
+      "price": 79.99,
+      "productUrl": "https://amzn.to/3EjBNxK",
+      "rating": 4.3
+    },
+    {
+      "productName": "Kasa Smart Light Switch HS200, Single Pole, Needs Neutral Wire, 2.4GHz Wi-Fi Light Switch Works with Alexa and Google Home, UL Certified, No Hub Required , White",
+      "image": "https://m.media-amazon.com/images/I/71nMzhO05jL._AC_SX679_.jpg",
+      "price": 12.99,
+      "productUrl": "https://amzn.to/3XcLoPs",
+      "rating": 4.6
+    },
+    {
+      "productName": "KLAXAVEL Pet Memorial Wind Chimes - 19\" Rainbow Bridge Pet Memorial Gifts, Thoughtful Loss of Cat or Dog Gifts, Wind Chime with Poem and Red Collar, Durable Metal Outdoor Chimes Pet Sympathy Gift",
+      "image": "https://m.media-amazon.com/images/I/91mkxhJ3IQL._AC_SX679_.jpg",
+      "price": 34.99,
+      "productUrl": "https://amzn.to/3EnGO8O",
+      "rating": 4.9
+    },
+    {
+      "productName": "YUOCHY 1080P Light Bulb Camera, Wireless 2.4GHz WiFi Home Security Camera, 360° Surveillance Cam with Motion Detection Alarm Night Vision Light Socket Camera(Included 32G SD Card), (E27)",
+      "image": "https://m.media-amazon.com/images/I/71YpvAYN+tL._AC_SX679_.jpg",
+      "price": 25.99,
+      "productUrl": "https://amzn.to/3X7VrFD",
+      "rating": 3.9
     }
   ]
 }
